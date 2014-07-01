@@ -1,6 +1,6 @@
 # Hangjs Summary
 
-by [junmer](https://github.com/junmer), [slide](http://junmer.github.io/hangjs) by [reveal-md](https://github.com/webpro/reveal-md)
+by [junmer](https://github.com/junmer), [slide](http://junmer.github.io/hangjs-summary) by [reveal-md](https://github.com/webpro/reveal-md)
 
 ---
 
