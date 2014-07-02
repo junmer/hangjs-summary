@@ -61,7 +61,7 @@ by [junmer](https://github.com/junmer), [slide](http://junmer.github.io/hangjs-s
 
 ---
 
-## Peer-Directed Collaborative Projects
+## Peer-Directed Collaborative Projects (推荐)
 
 * 万物皆 [module](http://wiki.commonjs.org/wiki/Modules)
 * 使用 [stream](https://github.com/substack/stream-handbook) 连接程序
@@ -164,7 +164,7 @@ by [junmer](https://github.com/junmer), [slide](http://junmer.github.io/hangjs-s
 
 ---
 
-## 如何持续技术学习 （推荐）
+## 如何持续技术学习 
 
 * 如何做一个有追求的程序员
 * 知识管理 + 时间管理 + 心态
@@ -241,7 +241,7 @@ by [junmer](https://github.com/junmer), [slide](http://junmer.github.io/hangjs-s
 
 ---
 
-## Web Components标准：前端开发的新一次技术革命
+## Web Components标准：前端开发的新一次技术革命 (推荐)
 
 * [Shadow DOM](http://w3c.github.io/webcomponents/spec/shadow/)
 * [HTML Imports](http://w3c.github.io/webcomponents/spec/imports/)
